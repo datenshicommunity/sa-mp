@@ -1,0 +1,10 @@
+site: ""
+user: troke12
+repo: sa-mp
+entry: gamemodes/dt.pwn
+output: gamemodes/dt.amx
+dependencies:
+- sampctl/samp-stdlib
+local: true
+runtime:
+  mode: y_testing
